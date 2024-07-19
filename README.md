@@ -7,6 +7,9 @@
 
 PCL based ROS package to Detect/Cluster --> Track --> Classify static and dynamic objects in real-time from LIDAR scans implemented in C++.
 
+I did migration to ROS2 for Autonomous Vehicle Chanllenge, @tersite1 thx
+
+
 ### Features:
 
 - K-D tree based point cloud processing for object feature detection from point clouds
